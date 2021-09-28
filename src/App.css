@@ -1,0 +1,8 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+#chartContainer{
+  width: 70%;
+  height: 70%;
+}
